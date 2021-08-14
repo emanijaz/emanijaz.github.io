@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://linkedin.com/in/sitemap.xml
+Host: https://linkedin.com
