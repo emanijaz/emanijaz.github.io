@@ -140,7 +140,7 @@ const About = () => {
               3.38 (84% aggregate). I found myself as a Data Science and Machine Learning enthusiast and have started my Masters
               in Computer Science from {' '}<a href="https://lums.edu.pk/">LUMS</a> {' '}.
             </p>
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>Here are a few technologies I've been working with recently :</p>
           </div>
 
           <ul className="skills-list">
